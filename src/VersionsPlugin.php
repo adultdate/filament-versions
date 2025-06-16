@@ -62,9 +62,9 @@ class VersionsPlugin implements Plugin
 
         if (static::get()->shouldHaveDefaults()) {
             $defaults = [
-                new LaravelVersionProvider(),
-                new FilamentVersionProvider(),
-                new PHPVersionProvider(),
+                new LaravelVersionProvider,
+                new FilamentVersionProvider,
+                new PHPVersionProvider,
             ];
         }
 
