@@ -1,5 +1,5 @@
 {
-    "name": "awcodes/filament-versions",
+    "name": "adultdate/filament-versions",
     "type": "package",
     "description": "A mostly useless package to display framework versions at the bottom of the navigation panel.",
     "keywords": [
